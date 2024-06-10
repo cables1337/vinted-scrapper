@@ -1,5 +1,5 @@
 # vinted-scrapper
-Simple Vinted scraper from username to ID
+Vinted User Scraper is a tool designed to scrape all users from Vinted.
 
 # How it works:
 
